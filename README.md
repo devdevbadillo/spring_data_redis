@@ -1,3 +1,7 @@
+# Spring Data Redis
+
+## Tabla de contenido
+
 - [Introducción a Redis y Spring Data Redis](#introduccion-redis-spring-data-redis)
   - [¿Qué es Redis?](#que-es-redis)
     - [Características Principales (Key-Value, In-Memory, Persistencia)](#caracteristicas-principales-redis)
